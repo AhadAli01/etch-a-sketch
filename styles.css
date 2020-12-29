@@ -1,0 +1,46 @@
+body {
+  background-color: #78CCCB;
+  text-align: center;
+}
+
+#background {
+  width: 54rem;
+  height: 54rem;
+  background-color: #CF0000;
+  margin: 4rem auto;
+  border-radius: 1.5rem;
+}
+
+#container {
+  width: 42rem;
+  height: 42rem;
+  position: absolute;
+  margin: 1rem 6rem;
+}
+
+.heading {
+    font-family: 'Lobster', cursive;
+    font-size: 4.5rem;
+    color: #FFED66;
+    text-align: center;
+    margin: 0;
+    line-height: 1;
+    padding-top: 1rem;
+}
+
+#controls {
+  text-align: center;
+  margin: 45rem auto;
+}
+
+p {
+  display: inline;
+  font-family: 'Lobster', cursive;
+  font-size: 1.25rem;
+  color: #FFED66;
+  margin-right: 1rem;
+}
+
+input {
+  margin-right: 4rem;
+}
